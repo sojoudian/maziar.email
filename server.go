@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"log"
 	"net/http"
 )
@@ -9,9 +8,8 @@ import (
 func main() {
 
 	// handle `/` route
-	http.HandleFunc("/", func(res http.ResponseWriter, req *http.Request) {
-		fmt.Fprint(res, "Hello World!")
-	})
+	fs := http.FileServer(http.Dir("./templates"))
+	http.Handle("/", fs)
 
 	// run server on port "9000"
 	log.Fatal(http.ListenAndServeTLS(":443", "localhost.crt", "localhost.key", nil))

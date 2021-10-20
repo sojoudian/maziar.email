@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/maziar
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://maziar.email
+  * I am maziar (https://keybase.io/maziar) on keybase.
+  * I have a public key with fingerprint BF6C 858F 72F3 DD9F 8951  D375 6551 8527 B421 4EFD
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012008da49162679f34d6c9aa66b029c07538cea1a5f91ae44b43bda151e460fca020a",
+      "fingerprint": "bf6c858f72f3dd9f8951d37565518527b4214efd",
+      "host": "keybase.io",
+      "key_id": "65518527b4214efd",
+      "kid": "0101f10822c5ff3c5b91e26183520cda57b94f8a18b3a5fa23a8bfafe4e7878b6f6e0a",
+      "uid": "9dbf54015c0006c4b7586e6180e02d19",
+      "username": "maziar"
+    },
+    "service": {
+      "hostname": "maziar.email",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1634757070,
+  "expire_in": 157680000,
+  "prev": "48d6e395d0bca310d3b787bcb38ce151e08ce8f468174c2774b74477baa9ed12",
+  "seqno": 48,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNvAnicbVJrUFRlGF4uUoAIOuqYMVMcErzQ+p37OctAzeiMDToUFYHclu+c8x04
+A+wuu8stWGBKpEBCjJBw1CyVS5cBkuwCAaYRA7NOY2kMLISXgAooXBsNkc5h8kcz
+/Xrne9/neb7nvVwM8NL5eaC4ivBzIbFLHkP9DXk6aFGcxZhgloowQzGWhVYCypaQ
+zW7MUiTMgAGcAICTIMXjDMGwvExSEiPyEDKMAAheBCxNciKCOKRlHoeIogSKFCSI
+0ziiGCCLEBAAYhGYrJgykNViVUx2VVaQGZGjOZklZFKSeJnjaVwiWZqhaZyjCVag
+CJxCsqQSM802jaGaE6AN6RWzmlMfxhV7/4N/6BvgMg44ghBpWSZFWuBxRDA4R9IE
+ECVIswJPyRzEOYFUrUOChJwgQxlRiOVYTmBkBq34zluR4yVBpimA0yIAgBEpgaU5
+BqlyAAFCwnkNaENWE8xBKjoHvqpAK+aIwNRcviIibaxaH/+p61EOVLJVpsVqtptF
+c7ZaybTbLTaDxrQXWTRoARKM/4oYBcUkqVNUGfnIalPMJsyAq0jRrmiqOENSLM0C
+FkRgqNCiWJFR0RA0y3CqaaD9g/JVSYqTGETytAQEEZI4kEhBbVkQBW2R2t6AGjmZ
+YjicpUSCZdVuKYplBQh5JOEEprWVazJjBopTfcIMVdOmZJigPc+KMMeF/hRvnYef
+zmeVp3ZeOj/foIdHN1MduLQxoccdtLauIb7u2/ycuyjk+e+6K/9ubh6oGd17KfLp
+A1dqDUlDyd5jJrT1B1DbOD0X0nm6qtbc48L6o8I2XJvpie3GXsl5bnuEHhw+Z+8u
+vXvHdWz/5Pbptvp15vda9r35gssxVtQwV1h++eZLu19z+cr7nal/tuiSlfDFX5PY
+rN/Y97dW5Sx7zuWeLXvH8FdS32DRM72HyLBxPONZx+uXrtvWbXuKm9FV+KS353cN
+FurajlQ0f3ryVvCS10TtrE/QH93OrlPT9x5/efgtfHHyRFjk2YLmhIns8KnD3Ecp
+0TWhlcdvz/vuIoIb/Y2jB9bHVF9sXx8vP1E4eb9peaLMbY+dLQkcvyef+nqT0Nkz
+9WGX0xK3xs972+jRNBA1P96ErQbLw1s6qmNS+058OXAyd1XvYmZlPZM4OqAvLvOp
+XDNz00f/+/TxywsdeSkHnfrQL87bUq8/MjpSUMB1tpYe8dCF+d5uueql/8Z12rti
+tqbufmd69NgvG1cjd/nOAMfIcHo95/zE9VkhXLuhr23qTPCumMDG5IPe71a7o352
+3RoZCp9I/LFk5webBx5rimydePTJGwsfv73ZWHbVn/i8Q9gUMrdAHpWgvaqq99q+
+O1fO1CbuyAp94HZOtW554D625IiOy0j7KXPQ2J5W4ml5cUfC0mD/V54ppXsGzvvv
+2W2Yj9/7xo0LAd+X/wMbjMoC
+=sNGm
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/maziar
+
+==================================================================
+

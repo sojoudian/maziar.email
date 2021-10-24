@@ -18,3 +18,5 @@
 *.bat text eol=crlf
 
 *.go -text diff=golang
+* linguist-vendored
+*.go linguist-vendored=false

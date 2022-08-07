@@ -12,6 +12,6 @@ func main() {
 	http.Handle("/", fs)
 
 	// run server on port "9000"
-	log.Fatal(http.ListenAndServeTLS(":443", "localhost.crt", "localhost.key", nil))
+	log.Fatal(http.ListenAndServe(":80", nil))
 
 }

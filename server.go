@@ -11,7 +11,7 @@ func main() {
 	fs := http.FileServer(http.Dir("./templates"))
 	http.Handle("/", fs)
 
-	// run server on port "9000"
+	// run server on port "80"
 	log.Fatal(http.ListenAndServe(":80", nil))
 
 }
